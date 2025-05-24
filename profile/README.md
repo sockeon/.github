@@ -4,6 +4,6 @@ Sockeon is an organization dedicated to building high-quality, event-driven sock
 
 Our mission is to bring scalable, real-time capabilities to PHP applications with clean, expressive APIs and modern architecture.
 
-- 🧰 [Socklet](https://github.com/sockeon/sockeon) - Lightweight, event-based PHP socket server
+- 🧰 [Sockleon](https://github.com/sockeon/sockeon) - Lightweight, event-based PHP socket server
 
 More packages and tools coming soon.
